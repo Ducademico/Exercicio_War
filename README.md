@@ -12,4 +12,4 @@
 **[FINALIZADO]**
 
 4 - O código deve conter **comentários explicativos** sobre a criação da struct, entrada e exibição de dados.
-***(EM ANDAMENTO)***
+**[FINALIZADO]**
