@@ -1,6 +1,7 @@
 # Exercício War (Estrutura de Dados)
 
 ## Etapa Novato (Em andamento)
+
 1 - Definir uma struct **Território** com os campos **char nome[30]**, **char cor[10]**, e **int tropas**.
 **[FINALIZADO]**
 
